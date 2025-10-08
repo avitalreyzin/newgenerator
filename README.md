@@ -1,0 +1,2 @@
+# newgenerator
+generates ideas
